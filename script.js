@@ -7,9 +7,6 @@ var txtout_2 = "";
 var txtout_3 = "";
 var txtout_4 = "";
 var txtout_5 = "";
-var txtout_6 = "";
-var txtout_7 = "";
-var txtout_8 = "";
 
 function nameGen() {
   return (
@@ -20,9 +17,6 @@ function nameGen() {
 }
 
 function myFunction() {
-  txtout_8 = txtout_7;
-  txtout_7 = txtout_6;
-  txtout_6 = txtout_5;
   txtout_5 = txtout_4;
   txtout_4 = txtout_3;
   txtout_3 = txtout_2;
@@ -41,7 +35,4 @@ function myFunction() {
   document.getElementById("txtout_3").innerHTML = txtout_3;
   document.getElementById("txtout_4").innerHTML = txtout_4;
   document.getElementById("txtout_5").innerHTML = txtout_5;
-  document.getElementById("txtout_6").innerHTML = txtout_6;
-  document.getElementById("txtout_7").innerHTML = txtout_7;
-  document.getElementById("txtout_8").innerHTML = txtout_8;
 }
