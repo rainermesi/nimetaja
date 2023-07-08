@@ -10,3 +10,10 @@ Andmed:
 
 Veebileht:
 https://rainermesi.github.io/nimetaja/
+
+### In English:
+
+* Estonian username generator.
+* Combines adjectives from the public Estonian laguage corpus with names of mammals from Wikipedia.
+  * For example: "Curious Panda"
+* Link to demo: https://rainermesi.github.io/nimetaja/
